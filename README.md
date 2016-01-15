@@ -7,5 +7,8 @@ This GitHub project hosts a collection of instructions and tutorials to help you
 * $ git remote add lop https://github.com/linux-on-power/genkernel
 * $ git add .
 * $ git commit -s -a -m " msg"
+* 
+1. If it's empty repository
 * $ git push -f lop master:master
-
+2. It not empty repository
+* $git push lop master:master
